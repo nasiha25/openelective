@@ -44,25 +44,10 @@ Table of Contents
 
 * * *
 
-### Demo
-
-Check the theme in action [Demo](https://zolan-jekyll.netlify.app/)
-
-![Main page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-post.png?raw=true)
-
-* * *
-
 ### Deployment
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-* * *
 
 ### Posts
 
@@ -74,8 +59,8 @@ To create a new post, you can create a new markdown file inside the \_posts dire
       date: 2018-08-23 16:04:00 +0300
       image: 03.jpg
       tags: Life
+      author: Name
       ---
-
 
 You can set the tags and the post image.
 
@@ -130,22 +115,6 @@ Third, open the `_data/settings.yml` file and replace the `instafeed: false` on 
 
 * * *
 
-### Google Analytics
-
-To integrate Google Analytics, open `_data/settings.yml`, and add your Google Analytics identifier.
-
-    # Google Analytics
-    google-analytics: # Add your identifier. For example UA-99631805-1
-
-
-* * *
-
-### Update favicon
-
-You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
-
-* * *
-
 ### Credits
 
 I have used the following scripts, fonts or other files as listed.
@@ -164,9 +133,3 @@ I have used the following scripts, fonts or other files as listed.
 Mit License
 
 * * *
-
-### Premium Themes by Artem
-
-| [![Coderon Jekyll Theme](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/coderon-preview.png?raw=true)](https://jekyllthemes.io/theme/coderon-blog-jekyll-theme) | [![Renva Portfolio Jekyll Theme](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/renva-preview.png?raw=true)](https://jekyllthemes.io/theme/renva-portfolio-jekyll-theme) | [![Nomod](https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/nomod-preview.png?raw=true)](https://jekyllthemes.io/theme/nomod-blog-jekyll-theme) |
-|:---:|:---:|:---:|
-| **Coderon** | **Renva** | **Nomod** |
