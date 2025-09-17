@@ -1,0 +1,12 @@
+---
+layout: post
+title:  delving into kicad
+date:   2025-09-17 15:01:35 +0300
+image:  vyshnvkicad.png
+tags:   Home,kicad
+---
+KI-CAD (Kicad) is a free, open-source software suite used for electronic design automation (EDA). It allows users to create schematics and design printed circuit boards (PCBs) with professional-grade tools. Popular among hobbyists, students, and professionals, Kicad supports multi-layer boards, custom component creation, and integrates with 3D viewers for visualizing the final product. Its active community and continuous development make it a powerful alternative to commercial EDA tools.
+
+![]({{ site.baseurl }}/images/07.jpg)
+*Minimalism*
+
