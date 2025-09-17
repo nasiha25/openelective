@@ -5,6 +5,12 @@ date:   2025-07-05 15:01:35 +0300
 image:  R.jpg
 tags:   Home,kicad
 ---
+We're delighted to have you here! This site is designed to provide you with the best experience, whether you're looking to explore new content, connect with a community, or find helpful resources. 
+
+Take your time to navigate through our features and feel free to reach out if you need any assistance. We're always here to help and ensure you get the most out of your visit.
+
+Thank you for stopping by—enjoy your stay!
+
 ![]({{ site.baseurl }}/images/dan/R.jpg)
 *Minimalism*
 
