@@ -1,0 +1,27 @@
+---
+layout: post
+title:  KIKAD
+date:   2025-07-05 15:01:35 +0300
+image:  kika.jpg
+tags:   Home,kicad
+author: Dan Alex
+---
+We're delighted to have you here! This site is designed to provide you with the best experience, whether you're looking to explore new content, connect with a community, or find helpful resources. 
+
+Take your time to navigate through our features and feel free to reach out if you need any assistance. We're always here to help and ensure you get the most out of your visit.
+
+Thank you for stopping by—enjoy your stay!
+
+![]({{ site.baseurl }}/images/dan/kika.jpg)
+*Minimalism*
+
+KiCad is a popular open-source software suite used for electronic design automation (EDA). It allows users to create schematics for electronic circuits and design printed circuit boards (PCBs). KiCad is widely used by hobbyists, students, and professionals because it is free, cross-platform (available for Windows, Linux, and macOS), and offers a robust set of features.
+
+Some key features of KiCad include:
+
+Schematic capture for designing circuit diagrams.
+PCB layout editor for designing multi-layer boards.
+Integrated 3D viewer for visualizing boards and components.
+Support for Gerber file export, which is the industry standard for PCB manufacturing.
+An active community that contributes libraries of components and footprints.
+KiCad is well-regarded for its flexibility and the fact that it doesn't lock users into proprietary formats, making it ideal for open hardware projects. If you are interested in electronics or PCB design, KiCad is a powerful and accessible tool to get started with!
