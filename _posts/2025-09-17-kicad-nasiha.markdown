@@ -2,7 +2,7 @@
 layout: post
 title:  KiCad
 date:   2018-07-05 15:01:34 +0300
-image:  05.jpg
+image:  nasi/cover.png
 tags:   Home,kicad
 ---
 What is KiCad?
@@ -25,6 +25,6 @@ Manufacturing file generation: Generate standard manufacturing files, such as Ge
 
 
 
-![]({{ site.baseurl }}/images/07.jpg)
+![]({{ site.baseurl }}/images/nasi/cover.png)
 *Minimalism*
 
