@@ -2,7 +2,7 @@
 layout: post
 title: Kicad
 date:   2018-07-05 15:01:35 +0300
-image:  05.jpg
+image:  kicad.jpg
 tags:   Home,kicad
 ---
 # Write Up on KiCad
@@ -66,6 +66,6 @@ To start using KiCad:
 ## Conclusion
 
 KiCad is a versatile and powerful EDA tool suitable for a wide range of users. Its open-source nature and robust feature set make it a popular choice for anyone interested in PCB design.
-![]({{ site.baseurl }}/images/07.jpg)
+![]({{ site.baseurl }}/images/daya/kicad.jpg)
 *Minimalism*
 
