@@ -2,7 +2,7 @@
 layout: post
 title:  KIKAD
 date:   2025-07-05 15:01:35 +0300
-image:  R.jpg
+image:  kika.jpg
 tags:   Home,kicad
 author: Dan Alex
 ---
@@ -12,7 +12,7 @@ Take your time to navigate through our features and feel free to reach out if yo
 
 Thank you for stopping by—enjoy your stay!
 
-![]({{ site.baseurl }}/images/dan/R.jpg)
+![]({{ site.baseurl }}/images/dan/kika.jpg)
 *Minimalism*
 
 KiCad is a popular open-source software suite used for electronic design automation (EDA). It allows users to create schematics for electronic circuits and design printed circuit boards (PCBs). KiCad is widely used by hobbyists, students, and professionals because it is free, cross-platform (available for Windows, Linux, and macOS), and offers a robust set of features.
