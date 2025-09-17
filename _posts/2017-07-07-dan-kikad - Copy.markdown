@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Moving to a new place
+title:  KIKAD
 date:   2025-07-05 15:01:35 +0300
 image:  R.jpg
 tags:   Home,kicad
