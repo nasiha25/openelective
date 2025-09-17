@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<div class="container">
+	<div class="page-title-box">
+		<div class="row">		
+			<div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
+				<img style="width:128px;height:128px;" src= "{{site.baseurl}}/images/{{page.name}}.jpg"></img>
+				<h1 class="page-title">About {{ page.name | escape }}</h1>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+<div class="container">
+	<div class="row">
+		<!-- begin page -->
+		<article class="page col col-8 col-t-10 col-m-12">
+			<div class="page__content">
+				{{ content }}
+			</div>
+		</article>
+		<article class="page col col-8 col-t-10 col-m-12">
+			<div class="page__content">
+				{% assign author_posts = site.posts | where: "author", page.name %}
+
+				{% if author_posts.size > 0 %}
+				  <h2>Posts by {{ page.name }}</h2>
+				  <ul>
+					{% for post in author_posts %}
+					  <li>
+						<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+						<br>
+						<small>{{ post.date | date: "%B %d, %Y" }}</small>
+					  </li>
+					{% endfor %}
+				  </ul>
+				{% else %}
+				  <p>No other posts found by this author.</p>
+				{% endif %}
+			</div>
+		</article>
+		<!-- end page -->
+	</div>
+</div>
+
+

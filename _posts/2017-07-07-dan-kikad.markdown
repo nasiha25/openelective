@@ -4,7 +4,7 @@ title:  KIKAD
 date:   2025-07-05 10:01:35 +0300
 image:  dan/kika.png
 tags:   Home kicad
-author: Dan Alex
+author: Dan
 ---
 
 We're delighted to have you here! This site is designed to provide you with the best experience, whether you're looking to explore new content, connect with a community, or find helpful resources. 

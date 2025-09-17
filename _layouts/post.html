@@ -10,12 +10,11 @@ layout: default
         </span>
 
         <h1 class="post-title">{{ page.title | escape }}</h1>
-        <span style="font-size: small;" class="post-title">{{ page.author | escape }}</span>
 
         <div class="post__info">
           <div class="post__author">
             <span>By</span>
-            <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
+            <a href="{{ site.baseurl }}/authors/{{ page.author }}/" class="author-name">{{ page.author }}</a>
           </div>
 
           {% if page.tags.size >= 1 %}
