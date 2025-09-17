@@ -2,8 +2,9 @@
 layout: post
 title: Kicad
 date:   2018-07-05 15:01:35 +0300
-image:  kicad.jpg
-tags:   Home,kicad
+image:  daya/kicad.jpg
+tags:   Home kicad
+author: Daya
 ---
 # Write Up on KiCad
 
