@@ -9,7 +9,7 @@ author: Nasiha
 
 
 ![]({{ site.baseurl }}/images/nasi/Microcontroller.jpg)
-*Schematic*
+
 
 
 
