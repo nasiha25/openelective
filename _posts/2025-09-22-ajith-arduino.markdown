@@ -8,6 +8,6 @@ author: Ajith
 ---
 
 # An in-depth introduction to the Arduino, how it's used, how it's programmed, and how to pick the right one for your electronics projects.
-Lets get started!
+Lets get started!!!
 ![]({{ site.baseurl }}/images/ajith/ard1.jpeg)
 
