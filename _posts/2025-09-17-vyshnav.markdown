@@ -3,7 +3,7 @@ layout: post
 title: delving into kicad
 date: 2025-09-17 15:01:35 +0300
 image: vyshnav/vyshnavkicad.png
-tags: Home Kicad
+tags: Home kicad
 author: Vyshnav
 ---
 
