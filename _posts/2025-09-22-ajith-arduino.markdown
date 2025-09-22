@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  Arduino Basics
-date:   2025-09-22 15:56:35 +0300
+title:  "Basics of arduino"
+date:   2025-09-22
 image:  ajith/ard1.jpeg
-tags:   Home Arduino
+tags:   Home
 author: Ajith
 ---
 
-# An in-depth introduction to the Arduino, how it's used, how it's programmed, and how to pick the right one for your electronics projects.
+# Introduction to Arduino
+
+## An in-depth introduction to the Arduino, how it's used, how it's programmed, and how to pick the right one for your electronics projects.
 Lets get started!!!
+
 ![]({{ site.baseurl }}/images/ajith/ard1.jpeg)
 
