@@ -6,7 +6,6 @@ image:  jesned/Jesned_KiCAD.jpg
 tags:   Home kicad
 author: Jesned George Mathew
 ---
-# Write Up on KiCad
 
 ## Introduction
 
