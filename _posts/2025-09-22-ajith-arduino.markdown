@@ -3,7 +3,7 @@ layout: post
 title:  "Basics of arduino"
 date:   2025-09-22
 image:  ajith/ard1.jpeg
-tags:   Home
+tags:   Home Arduino
 author: Ajith
 ---
 
