@@ -2,7 +2,7 @@
 layout: post
 title:  Arduino Basics
 date:   2025-09-22 15:56:35 +0300
-image:  ard1.jpeg
+image:  ajith/ard1.jpeg
 tags:   Home Arduino
 author: Ajith
 ---
