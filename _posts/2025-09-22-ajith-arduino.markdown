@@ -3,7 +3,7 @@ layout: post
 title:  "START A PROJECT WITH ATmega328p"
 date:   2025-09-24
 image:  nano/ajith.jpeg
-tags:   Home Microcontroller
+tags:   Home Microcontrollers
 author: Ajith
 ---
 
