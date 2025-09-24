@@ -1,16 +1,51 @@
 ---
 layout: post
-title:  "Basics of arduino"
-date:   2025-09-22
-image:  ajith/ard1.jpeg
+title:  "START A PROJECT WITH ATmega328p"
+date:   2025-09-24
+image:  nano/ajith.jpeg
 tags:   Home Arduino
 author: Ajith
 ---
 
-# Introduction to Arduino
+# Blinking an External LED with ATmega328
 
-## An in-depth introduction to the Arduino, how it's used, how it's programmed, and how to pick the right one for your electronics projects.
-Lets get started!!!
+## This project demonstrates how to blink an external LED using the ATmega328P microcontroller. It's a classic beginner-friendly example to get started with embedded programming and microcontroller interfacing.
+🧰 Requirements
+• 	ATmega328P microcontroller
+• 	External LED
+• 	A resistor
+• 	Breadboard and USB Cable
+• 	AVR toolchain (e.g., Atmel Studio, avr-gcc, or Arduino IDE)
 
-![]({{ site.baseurl }}/images/ajith/ard1.jpeg)
+![]({{ site.baseurl }}/images/nano/ajith.jpeg)
+
+#CODE 
+```C
+
+void setup() {
+  DDRD = 4;
+  DDRB = 32;
+  while(true){
+    PORTD = 4;
+    delay(500);
+    PORTD = 0;
+    PORTB = 32;
+    delay(500);
+    PORTB = 0;
+    
+    
+  }
+}
+
+
+
+
+
+void loop() {
+}
+
+```
+
+
+
 
