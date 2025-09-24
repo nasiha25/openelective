@@ -1,5 +1,5 @@
 baseurl: "/openelective" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cieuoc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -11,6 +11,11 @@ plugins:
 
 paginate: 5
 paginate_path: "/page/:num"
+
+collections:
+  authors:
+    permalink:         /authors/:path/
+    output:            true
 
 
 # Pages Path
