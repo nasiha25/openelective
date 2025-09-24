@@ -1,17 +1,63 @@
 ---
 layout: post
-title:  Moving to a new place
-date:   2025-07-05 15:01:35 +0300
-image:  R.jpg
-tags:   Home,kicad
+title:  Arduino Project
+date:   2025-09-24 
+image:  nano/danish.jpeg
+tags:   Home Microcontrollers
+author: Danish
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
-![]({{ site.baseurl }}/images/Danish/R.jpg)
+
+![]({{ site.baseurl }}/images/nano/danish.jpeg)
 *Minimalism*
 
 
-KiCad is a powerful, open-source software suite for electronic design automation (EDA), used by hobbyists, students, and professionals worldwide to create schematics and printed circuit board (PCB) layouts. Its intuitive interface and rich feature set empower users to design complex circuits and multi-layer PCBs with ease, making it a popular choice for both beginners and experts. KiCad's open-source nature ensures that it’s freely available to all and continuously improved by a vibrant global community.
+# My Arduino Project: Exploring Creativity with Electronics
 
-An interesting fact about KiCad is its adoption by CERN, the European Organization for Nuclear Research. CERN, famous for the Large Hadron Collider, uses KiCad for designing components in their high-energy physics experiments. This demonstrates the software’s reliability and capability, as it meets the demanding standards of one of the world’s leading scientific institutions. The partnership has also led to significant contributions from CERN to KiCad’s development, benefiting all users.
+Recently, I embarked on an exciting journey into the world of electronics by starting my very own Arduino project. Arduino is an open-source electronics platform based on easy-to-use hardware and software, making it perfect for beginners and hobbyists alike. My goal was to learn more about how hardware and software interact, and to build something functional from scratch.
 
-KiCad’s flexibility is another standout feature. It supports advanced capabilities such as 3D visualization of PCBs, interactive routing, and integration with external tools for simulation and manufacturing. Users can easily export designs in industry-standard formats, collaborate on projects, and even contribute to the software itself. Whether you’re creating a simple DIY gadget or a complex scientific instrument, KiCad provides the tools and freedom needed to bring your electronic ideas to life.
+## Getting Started
+
+At first, the world of circuits and microcontrollers seemed a bit intimidating. However, thanks to the abundance of online tutorials and community forums, I quickly got up to speed. I began by experimenting with basic components like LEDs, resistors, and buttons, learning how to control them with simple Arduino code.
+
+## Building the Project
+
+For my project, I decided to [insert your project idea here, e.g., create a temperature and humidity monitor, build a simple robot, automate my room lights, etc.]. The process involved connecting sensors and actuators to the Arduino board and writing code to make everything work together. I faced a few challenges along the way, such as troubleshooting connections and debugging code, but each obstacle taught me something new.
+
+## What I Learned
+
+Through this project, I gained hands-on experience in electronics, coding, and problem-solving. I discovered how rewarding it is to see a project come to life from just an idea. Working with Arduino has opened up a new world of possibilities for me, and I am excited to explore more complex projects in the future.
+
+## Conclusion
+
+My Arduino project was a great introduction to the world of DIY electronics. Whether you’re a student, hobbyist, or just curious about how things work, I highly recommend giving Arduino a try. It’s a fun and educational way to bring your ideas to life and learn valuable skills along the way.
+
+---
+
+*Have questions or want to share your own Arduino experiences? Leave a comment below!*
+
+
+#CODE
+```C
+
+void setup() {
+  DDRB = 32;
+  DDRD = 4 ;
+  while(true){
+    PORTB = 32;
+    delay(500);
+    PORTB = 0;
+    PORTD = 4;
+    delay(500);
+    PORTD= 0 ;
+    
+
+
+  }
+
+}
+
+void loop() {
+  
+
+}
+```
