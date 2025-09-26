@@ -15,10 +15,15 @@ KiCad is a free and open-source software suite for Electronic Design Automation 
 ### Core features:
 KiCad's integrated environment offers a comprehensive suite of tools for the entire electronic design process:
 * **Schematic editor:** Use a vast library of existing components or create your own custom symbols to build a circuit diagram. Features include hierarchical schematics for complex designs and an electrical rules checker (ERC).
+  
 * **Integrated simulation:** Verify your circuit's behavior with the built-in SPICE simulator before committing to a physical layout.
+  
 * **PCB layout editor:** Design the physical layout of your circuit board, from simple two-sided boards to complex, modern designs with up to 32 copper layers. It includes advanced features like a push-and-shove interactive router and customizable design rule checking (DRC).
+  
 * **Footprint and symbol editors:** Create custom component footprints and schematic symbols to add to your personal libraries.
+  
 * **3D viewer:** Inspect your PCB design in a 3D environment to check for mechanical fit and visualize the finished product.
+  
 * **Manufacturing file generation:** Generate standard manufacturing files, such as Gerber files, bills of materials (BOM), and artwork, to send to a PCB fabrication house.
 
 
