@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  KiCad
+title:  Designing PCBs with KiCad
 date:   2018-07-05 15:01:34 +0300
 image:  nasi/cover.png
 tags:   Home kicad
